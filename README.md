@@ -1,1 +1,1 @@
-# Quixoticedge.github.io
+CoreX.github.io
